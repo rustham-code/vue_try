@@ -56,5 +56,5 @@ new Vue({
  .todo-list .complete {
 	 text-decoration: line-through;
 }
-
 </style>
+
