@@ -42,6 +42,19 @@ new Vue({
 })
 </script>
 
-<style">
-
+<style>
+.todo-list {
+	 padding: 20px;
+	 border: 1px solid gray;
+	 border-radius: 10px;
+	 margin: 10px auto;
+	 width: 400px;
+}
+ .todo-list .title {
+	 margin-bottom: 10px;
+}
+ .todo-list .complete {
+	 text-decoration: line-through;
+}
 </style>
+
